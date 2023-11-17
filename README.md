@@ -22,7 +22,7 @@ Welcome to the React Hooks Password Generator repository! This project harnesses
    ```
 3. Run the application.
    ```bash
-   npm start
+   npm run dev
    ```
    or
    ```bash
